@@ -6,7 +6,7 @@ The dataset was cleaned and improve through using DAX in PowerBI. The new Table,
 
 Through this dashboard, I hope to showcase my skills and provide insight into my future career direction.
 
-PowerBI Public: https://app.powerbi.com/view?r=eyJrIjoiOGVhOWM5ZmQtMjhlMy00OTE3LTk3ZmItY2FhMTBmNWEzMjhhIiwidCI6ImQyZmIwYjU5LTNlODctNDIwNS1iMjc0LWU1NDM4ZmRjYmViZSJ9![img.png](img.png)
+PowerBI Public: https://app.powerbi.com/view?r=eyJrIjoiOGVhOWM5ZmQtMjhlMy00OTE3LTk3ZmItY2FhMTBmNWEzMjhhIiwidCI6ImQyZmIwYjU5LTNlODctNDIwNS1iMjc0LWU1NDM4ZmRjYmViZSJ9
 
 Data Source: https://drive.google.com/drive/folders/1rRQ9obW7po-hgPi_Ia7IP3C_RT7LA6NW
 
